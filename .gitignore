@@ -1,6 +1,11 @@
 # Virtual Environment
 venv/
 
+# Folders for user-generated content
+# Ignore all content inside, but track the folder itself via .gitkeep
+videos/*
+!videos/.gitkeep
+
 # Temporary and output folders
 temp/
 transcriptions/
