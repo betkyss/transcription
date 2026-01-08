@@ -1,3 +1,5 @@
 yt-dlp
 rich
 openai-whisper
+openai
+python-dotenv
